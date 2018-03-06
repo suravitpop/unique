@@ -232,6 +232,10 @@ width: 2px !important;
 margin-left: -2px !important;
 }
 
+.lang-switc button.btn.btn-primary.dropdown-toggle{
+	padding: 11px 9px 7px !important;
+}
+
 }
 
 @media (max-width: 480px) {
